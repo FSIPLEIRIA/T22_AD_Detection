@@ -1,2 +1,6 @@
 build/
 librealsense/
+
+*.jpg
+
+datasets/tutorial/
