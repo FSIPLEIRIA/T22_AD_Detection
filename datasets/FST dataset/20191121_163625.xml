@@ -1,0 +1,50 @@
+<annotation>
+	<folder>FST dataset</folder>
+	<filename>20191121_163625.jpg</filename>
+	<path>H:\PycharmProjects\T22_AD_Detection\datasets\FST dataset\20191121_163625.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1024</xmin>
+			<ymin>2165</ymin>
+			<xmax>1553</xmax>
+			<ymax>2878</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>957</ymin>
+			<xmax>582</xmax>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1591</xmin>
+			<ymin>794</ymin>
+			<xmax>1824</xmax>
+			<ymax>1107</ymax>
+		</bndbox>
+	</object>
+</annotation>
