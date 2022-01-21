@@ -1,0 +1,38 @@
+<annotation>
+	<folder>FST dataset</folder>
+	<filename>Screenshot (80).jpg</filename>
+	<path>H:\PycharmProjects\T22_AD_Detection\datasets\FST dataset\Screenshot (80).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>125</ymin>
+			<xmax>441</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>812</xmin>
+			<ymin>142</ymin>
+			<xmax>858</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>
