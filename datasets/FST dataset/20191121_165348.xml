@@ -1,0 +1,38 @@
+<annotation>
+	<folder>FST dataset</folder>
+	<filename>20191121_165348.jpg</filename>
+	<path>C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\FST dataset\20191121_165348.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1348</xmin>
+			<ymin>1046</ymin>
+			<xmax>1709</xmax>
+			<ymax>1542</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1637</xmin>
+			<ymin>1081</ymin>
+			<xmax>2040</xmax>
+			<ymax>1654</ymax>
+		</bndbox>
+	</object>
+</annotation>
