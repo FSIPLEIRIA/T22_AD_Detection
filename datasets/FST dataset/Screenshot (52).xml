@@ -155,4 +155,16 @@
 			<ymax>118</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1894</xmin>
+			<ymin>234</ymin>
+			<xmax>1920</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
 </annotation>

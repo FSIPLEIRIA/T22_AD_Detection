@@ -1,7 +1,7 @@
 <annotation>
 	<folder>FST dataset</folder>
-	<filename>IMG_20191126_161200.jpg</filename>
-	<path>H:\PycharmProjects\T22_AD_Detection\datasets\FST dataset\IMG_20191126_161200.jpg</path>
+	<filename>IMG_20191126_161139.jpg</filename>
+	<path>H:\PycharmProjects\T22_AD_Detection\datasets\FST dataset\IMG_20191126_161139.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2142</xmin>
-			<ymin>433</ymin>
-			<xmax>2557</xmax>
-			<ymax>1018</ymax>
+			<xmin>1831</xmin>
+			<ymin>175</ymin>
+			<xmax>2108</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2574</xmin>
+			<ymin>605</ymin>
+			<xmax>2910</xmax>
+			<ymax>1082</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1325</xmin>
-			<ymin>250</ymin>
-			<xmax>1523</xmax>
-			<ymax>533</ymax>
+			<xmin>1106</xmin>
+			<ymin>890</ymin>
+			<xmax>1444</xmax>
+			<ymax>1362</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>442</xmin>
-			<ymin>390</ymin>
-			<xmax>710</xmax>
-			<ymax>703</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>orange</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>665</xmin>
-			<ymin>65</ymin>
-			<xmax>882</xmax>
-			<ymax>311</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>orange</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2565</xmin>
-			<ymin>152</ymin>
-			<xmax>2759</xmax>
-			<ymax>403</ymax>
+			<xmin>693</xmin>
+			<ymin>262</ymin>
+			<xmax>957</xmax>
+			<ymax>635</ymax>
 		</bndbox>
 	</object>
 </annotation>

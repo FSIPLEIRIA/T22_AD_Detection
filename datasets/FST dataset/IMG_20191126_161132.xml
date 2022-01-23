@@ -1,7 +1,7 @@
 <annotation>
 	<folder>FST dataset</folder>
-	<filename>IMG_20191126_161200.jpg</filename>
-	<path>H:\PycharmProjects\T22_AD_Detection\datasets\FST dataset\IMG_20191126_161200.jpg</path>
+	<filename>IMG_20191126_161132.jpg</filename>
+	<path>H:\PycharmProjects\T22_AD_Detection\datasets\FST dataset\IMG_20191126_161132.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2142</xmin>
-			<ymin>433</ymin>
-			<xmax>2557</xmax>
-			<ymax>1018</ymax>
+			<xmin>2561</xmin>
+			<ymin>280</ymin>
+			<xmax>2778</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2567</xmin>
+			<ymin>80</ymin>
+			<xmax>2740</xmax>
+			<ymax>328</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1325</xmin>
-			<ymin>250</ymin>
-			<xmax>1523</xmax>
-			<ymax>533</ymax>
+			<xmin>1084</xmin>
+			<ymin>575</ymin>
+			<xmax>1329</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>940</xmin>
+			<ymin>173</ymin>
+			<xmax>1159</xmax>
+			<ymax>452</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>442</xmin>
-			<ymin>390</ymin>
-			<xmax>710</xmax>
-			<ymax>703</ymax>
+			<xmin>272</xmin>
+			<ymin>358</ymin>
+			<xmax>499</xmax>
+			<ymax>671</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>665</xmin>
-			<ymin>65</ymin>
-			<xmax>882</xmax>
-			<ymax>311</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>orange</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2565</xmin>
-			<ymin>152</ymin>
-			<xmax>2759</xmax>
-			<ymax>403</ymax>
+			<xmin>2233</xmin>
+			<ymin>935</ymin>
+			<xmax>2804</xmax>
+			<ymax>1614</ymax>
 		</bndbox>
 	</object>
 </annotation>
