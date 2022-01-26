@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FST dataset</folder>
+	<filename>IMG_20191126_160923.jpg</filename>
+	<path>/Users/danielz3/PycharmProjects/T22_AD_Detection/datasets/FST dataset/IMG_20191126_160923.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1528</xmin>
+			<ymin>649</ymin>
+			<xmax>1761</xmax>
+			<ymax>965</ymax>
+		</bndbox>
+	</object>
+</annotation>
