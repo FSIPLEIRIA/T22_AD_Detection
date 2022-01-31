@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Doing</folder>
+	<filename>20191126_160447.jpg</filename>
+	<path>C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\FST dataset\Doing\20191126_160447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1781</xmin>
+			<ymin>974</ymin>
+			<xmax>2010</xmax>
+			<ymax>1245</ymax>
+		</bndbox>
+	</object>
+</annotation>
