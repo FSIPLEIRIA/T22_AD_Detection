@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><annotation>
+	<folder>images</folder>
+	<filename>Cópia de IMG_20191122_164822.jpg</filename>
+	<path>T22_AD_Detection/datasets/fstudent_dataset/cones/images</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>2491</ymin>
+			<xmax>1869</xmax>
+			<ymax>3572</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>747</ymin>
+			<xmax>1306</xmax>
+			<ymax>1472</ymax>
+		</bndbox>
+	</object>
+</annotation>
