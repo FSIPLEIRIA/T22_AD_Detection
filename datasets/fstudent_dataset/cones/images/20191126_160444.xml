@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ToDo</folder>
+	<filename>20191126_160444.jpg</filename>
+	<path>C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\T22_AD_Detection\datasets\fstudent_dataset\cones\images\ToDo\20191126_160444.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1553</xmin>
+			<ymin>2118</ymin>
+			<xmax>2096</xmax>
+			<ymax>2947</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1249</xmin>
+			<ymin>621</ymin>
+			<xmax>1477</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+	</object>
+</annotation>

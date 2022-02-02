@@ -1,7 +1,7 @@
-<annotation>
-	<folder>FST dataset</folder>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><annotation>
+	<folder>images</folder>
 	<filename>IMG_20191126_160932.jpg</filename>
-	<path>/Users/danielz3/PycharmProjects/T22_AD_Detection/datasets/FST dataset/IMG_20191126_160932.jpg</path>
+	<path>T22_AD_Detection/datasets/fstudent_dataset/cones/images</path>
 	<source>
 		<database>Unknown</database>
 	</source>

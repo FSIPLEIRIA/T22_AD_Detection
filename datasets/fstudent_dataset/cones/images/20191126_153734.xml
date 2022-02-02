@@ -1,7 +1,7 @@
-<annotation>
-	<folder>FST dataset</folder>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><annotation>
+	<folder>images</folder>
 	<filename>20191126_153734.jpg</filename>
-	<path>C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\FST dataset\20191126_153734.jpg</path>
+	<path>T22_AD_Detection/datasets/fstudent_dataset/cones/images</path>
 	<source>
 		<database>Unknown</database>
 	</source>
