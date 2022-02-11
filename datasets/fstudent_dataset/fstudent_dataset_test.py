@@ -1,7 +1,7 @@
 """fstudent_dataset dataset."""
 
 import tensorflow_datasets as tfds
-from . import fstudent_dataset
+from . import train
 
 
 class FstudentDatasetTest(tfds.testing.DatasetBuilderTestCase):
