@@ -6,6 +6,8 @@ import os
 import io
 import pandas as pd
 
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+
 from tensorflow.python.framework.versions import VERSION
 if VERSION >= "2.0.0a0":
     import tensorflow.compat.v1 as tf
@@ -35,7 +37,6 @@ def split(df, group):
     data = namedtuple('data', ['filename', 'object'])
     gb = df.groupby(group)
     return [data(filename, gb.get_group(x)) for filename, x in zip(gb.groups.keys(), gb.groups)]
-
 
 def create_tf_example(group, path):
     with tf.gfile.GFile(os.path.join(path, '{}'.format(group.filename)), 'rb') as fid:
@@ -76,7 +77,6 @@ def create_tf_example(group, path):
         'image/object/class/label': dataset_util.int64_list_feature(classes),
     }))
     return tf_example
-
 
 def main(_):
     writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
