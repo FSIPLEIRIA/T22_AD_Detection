@@ -1,0 +1,38 @@
+<annotation>
+	<folder>FST dataset</folder>
+	<filename>frame(352).jpg</filename>
+	<path>/Users/danielz3/PycharmProjects/T22_AD_Detection/datasets/FST dataset/frame(352).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>127</ymin>
+			<xmax>719</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>153</ymin>
+			<xmax>1076</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
