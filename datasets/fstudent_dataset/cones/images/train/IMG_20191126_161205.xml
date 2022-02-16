@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><annotation>
+	<folder>train</folder>
+	<filename>IMG_20191126_161205.jpg</filename>
+	<path>/T22_AD_Detection/datasets/fstudent_dataset/cones/images/train/</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1212</xmin>
+			<ymin>805</ymin>
+			<xmax>1793</xmax>
+			<ymax>1358</ymax>
+		</bndbox>
+	</object>
+</annotation>
