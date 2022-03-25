@@ -14,8 +14,6 @@ import realsense2 as rs
 def start():
     cv.cv2.VideoCapture(0)
 
-    pass
-
 
 
 def loop():
